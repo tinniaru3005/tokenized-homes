@@ -32,3 +32,14 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+## Setting Up Using Docker
+
+### 1. Build the Docker image:
+
+`$ docker build -t tokenized-homes .`
+
+### 2. Run the Docker container:
+ `$ docker run -p 3000:3000 tokenized-homes`
+
+ This will start your application inside a Docker container and expose it on port 3000 of your host machine. You can access your application by navigating to `http://localhost:3000` in your web browser.

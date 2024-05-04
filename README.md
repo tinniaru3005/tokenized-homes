@@ -1,4 +1,5 @@
-# Real Estate NFT DApp
+# Tokenized Homes
+Real Estate NFT DApp
 
 ## Technology Stack & Tools
 
